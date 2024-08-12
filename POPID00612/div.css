@@ -1,0 +1,10 @@
+.dotted{
+    border: 5px;
+    border-style: dotted;
+    background-color: blue;
+    border-spacing: 2px;
+}
+.dashed{
+    border: 5px dashed rgb(130, 36, 36);
+    background-color:#aa6767;
+}
